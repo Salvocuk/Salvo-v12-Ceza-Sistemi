@@ -1,0 +1,17 @@
+{
+  "name": "salvo",
+  "version": "1.0.0",
+  "description": "Salvo Code v12 Boş Altyapı",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Salvo Code",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3"
+    }
+}
